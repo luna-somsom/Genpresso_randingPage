@@ -20,7 +20,7 @@ export function Footer() {
                   height={20}
                   className="w-4 h-4 sm:w-5 sm:h-5"
                 />
-                <p>RECON Inc. | Seonghoon Ban</p>
+                <p>RECON Labs Inc. | Seonghoon Ban</p>
               </div>
 
               <div className="flex items-center justify-center gap-2">
@@ -35,7 +35,7 @@ export function Footer() {
             </div>
 
             <div className="pt-2 sm:pt-3">
-              <p className="text-xs text-white/50 font-light">Copyright ⓒ 2025 RECON Inc. All rights reserved.</p>
+              <p className="text-xs text-white/50 font-light">Copyright ⓒ 2025 RECON Labs Inc. All rights reserved.</p>
             </div>
           </div>
         </div>
