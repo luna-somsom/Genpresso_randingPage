@@ -107,12 +107,10 @@ export function Header({
         <div className="absolute top-24 sm:top-32 lg:top-48 left-0 right-0 z-20">
           <div className="max-w-6xl mx-auto px-4 sm:px-6">
             <div className="flex flex-col items-center text-center">
+              <p className="text-purple-200 text-xs sm:text-sm font-sans tracking-wide mb-2 sm:mb-3">
+                Available in November
+              </p>
               <div className="relative">
-                <div className="mb-2 sm:mb-4">
-                  <p className="text-xs sm:text-sm lg:text-base font-semibold text-purple-200 tracking-wider font-sans">
-                    OpenBeta Available in November
-                  </p>
-                </div>
                 <h1 className="text-4xl sm:text-6xl lg:text-9xl font-black text-white leading-none drop-shadow-2xl">
                   GenPresso
                 </h1>
